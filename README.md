@@ -1,1 +1,1 @@
-# learn_spring_integration
+##Примеры с книги Spring in Action по Spring Integration##
